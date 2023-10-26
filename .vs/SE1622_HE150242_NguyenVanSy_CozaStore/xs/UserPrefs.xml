@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{5A15C681-A73D-4707-96A8-ACE476E66802}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CozaStoreUserWebClient/Pages/Login.cshtml">
+    <Files>
+      <File FileName="CozaStoreUserWebClient/Pages/Index.cshtml" Line="7" Column="1" />
+      <File FileName="CozaStoreUserWebClient/Pages/Shared/_Layout.cshtml" Line="25" Column="27" />
+      <File FileName="CozaStoreUserWebClient/Pages/Login.cshtml" Line="23" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SE1622_HE150242_NguyenVanSy_CozaStore" expanded="True">
+            <Node name="BusinessObjects" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="CozaStoreAdminWebClient" expanded="True" />
+            <Node name="CozaStoreAPI" expanded="True" />
+            <Node name="CozaStoreUserWebClient" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Login.cshtml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DataAccess" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CozaStoreUserWebClient PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
