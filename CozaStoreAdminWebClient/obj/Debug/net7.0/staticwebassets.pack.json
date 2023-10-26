@@ -5,12 +5,80 @@
       "PackagePath": "staticwebassets/CozaStoreAdminWebClient.bundle.scp.css"
     },
     {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/css/tailwind.css",
+      "PackagePath": "staticwebassets/css/tailwind.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/css/tailwind.output.css",
+      "PackagePath": "staticwebassets/css/tailwind.output.css"
+    },
+    {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/create-account-office-dark.jpeg",
+      "PackagePath": "staticwebassets/img/create-account-office-dark.jpeg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/create-account-office.jpeg",
+      "PackagePath": "staticwebassets/img/create-account-office.jpeg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/dashboard.png",
+      "PackagePath": "staticwebassets/img/dashboard.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/forgot-password-office-dark.jpeg",
+      "PackagePath": "staticwebassets/img/forgot-password-office-dark.jpeg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/forgot-password-office.jpeg",
+      "PackagePath": "staticwebassets/img/forgot-password-office.jpeg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/github.svg",
+      "PackagePath": "staticwebassets/img/github.svg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/login-office-dark.jpeg",
+      "PackagePath": "staticwebassets/img/login-office-dark.jpeg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/login-office.jpeg",
+      "PackagePath": "staticwebassets/img/login-office.jpeg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/img/twitter.svg",
+      "PackagePath": "staticwebassets/img/twitter.svg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/js/charts-bars.js",
+      "PackagePath": "staticwebassets/js/charts-bars.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/js/charts-lines.js",
+      "PackagePath": "staticwebassets/js/charts-lines.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/js/charts-pie.js",
+      "PackagePath": "staticwebassets/js/charts-pie.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/js/focus-trap.js",
+      "PackagePath": "staticwebassets/js/focus-trap.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/js/init-alpine.js",
+      "PackagePath": "staticwebassets/js/init-alpine.js"
     },
     {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAdminWebClient/wwwroot/js/site.js",

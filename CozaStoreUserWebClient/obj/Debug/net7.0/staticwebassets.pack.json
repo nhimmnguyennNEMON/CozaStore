@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets/CozaStoreUserWebClient.bundle.scp.css"
     },
     {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
@@ -17,8 +25,716 @@
       "PackagePath": "staticwebassets/css/tailwind.output.css"
     },
     {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/css/util.css",
+      "PackagePath": "staticwebassets/css/util.css"
+    },
+    {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-Black.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-Light.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat/Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Montserrat/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/Montserrat/OFL.txt"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/PlayfairDisplay/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/PlayfairDisplay/OFL.txt"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/PlayfairDisplay/PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/PlayfairDisplay/PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/PlayfairDisplay/PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/PlayfairDisplay/PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/PlayfairDisplay/PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/PlayfairDisplay/PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/PlayfairDisplay/PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/PlayfairDisplay/PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-Black.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-Bold.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-Italic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-Light.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-Medium.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-Regular.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-Thin.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/Poppins/Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins/Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/css/font-awesome.css",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/animated.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/animated.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/core.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/core.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/fixed-width.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/fixed-width.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/font-awesome.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/font-awesome.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/icons.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/icons.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/larger.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/larger.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/list.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/list.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/mixins.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/mixins.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/path.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/path.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/screen-reader.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/screen-reader.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/stacked.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/stacked.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/less/variables.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/variables.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_animated.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_core.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_icons.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_larger.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_list.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_path.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_path.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/_variables.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/font-awesome-4.7.0/scss/font-awesome.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/font-awesome.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/iconic/css/material-design-iconic-font.css",
+      "PackagePath": "staticwebassets/fonts/iconic/css/material-design-iconic-font.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/iconic/css/material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets/fonts/iconic/css/material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.eot",
+      "PackagePath": "staticwebassets/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.eot"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.svg",
+      "PackagePath": "staticwebassets/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.svg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.woff",
+      "PackagePath": "staticwebassets/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.woff"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.woff2"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/fonts/linearicons-v1.0.0/icon-font.min.css",
+      "PackagePath": "staticwebassets/fonts/linearicons-v1.0.0/icon-font.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/about-01.jpg",
+      "PackagePath": "staticwebassets/images/about-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/about-02.jpg",
+      "PackagePath": "staticwebassets/images/about-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/avatar-01.jpg",
+      "PackagePath": "staticwebassets/images/avatar-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-01.jpg",
+      "PackagePath": "staticwebassets/images/banner-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-02.jpg",
+      "PackagePath": "staticwebassets/images/banner-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-03.jpg",
+      "PackagePath": "staticwebassets/images/banner-03.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-04.jpg",
+      "PackagePath": "staticwebassets/images/banner-04.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-05.jpg",
+      "PackagePath": "staticwebassets/images/banner-05.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-06.jpg",
+      "PackagePath": "staticwebassets/images/banner-06.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-07.jpg",
+      "PackagePath": "staticwebassets/images/banner-07.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-08.jpg",
+      "PackagePath": "staticwebassets/images/banner-08.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/banner-09.jpg",
+      "PackagePath": "staticwebassets/images/banner-09.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/bg-01.jpg",
+      "PackagePath": "staticwebassets/images/bg-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/bg-02.jpg",
+      "PackagePath": "staticwebassets/images/bg-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/blog-01.jpg",
+      "PackagePath": "staticwebassets/images/blog-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/blog-02.jpg",
+      "PackagePath": "staticwebassets/images/blog-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/blog-03.jpg",
+      "PackagePath": "staticwebassets/images/blog-03.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/blog-04.jpg",
+      "PackagePath": "staticwebassets/images/blog-04.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/blog-05.jpg",
+      "PackagePath": "staticwebassets/images/blog-05.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/blog-06.jpg",
+      "PackagePath": "staticwebassets/images/blog-06.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-01.jpg",
+      "PackagePath": "staticwebassets/images/gallery-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-02.jpg",
+      "PackagePath": "staticwebassets/images/gallery-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-03.jpg",
+      "PackagePath": "staticwebassets/images/gallery-03.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-04.jpg",
+      "PackagePath": "staticwebassets/images/gallery-04.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-05.jpg",
+      "PackagePath": "staticwebassets/images/gallery-05.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-06.jpg",
+      "PackagePath": "staticwebassets/images/gallery-06.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-07.jpg",
+      "PackagePath": "staticwebassets/images/gallery-07.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-08.jpg",
+      "PackagePath": "staticwebassets/images/gallery-08.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/gallery-09.jpg",
+      "PackagePath": "staticwebassets/images/gallery-09.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/favicon.png",
+      "PackagePath": "staticwebassets/images/icons/favicon.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-close.png",
+      "PackagePath": "staticwebassets/images/icons/icon-close.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-close2.png",
+      "PackagePath": "staticwebassets/images/icons/icon-close2.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-email.png",
+      "PackagePath": "staticwebassets/images/icons/icon-email.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-heart-01.png",
+      "PackagePath": "staticwebassets/images/icons/icon-heart-01.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-heart-02.png",
+      "PackagePath": "staticwebassets/images/icons/icon-heart-02.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-next.png",
+      "PackagePath": "staticwebassets/images/icons/icon-next.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-pay-01.png",
+      "PackagePath": "staticwebassets/images/icons/icon-pay-01.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-pay-02.png",
+      "PackagePath": "staticwebassets/images/icons/icon-pay-02.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-pay-03.png",
+      "PackagePath": "staticwebassets/images/icons/icon-pay-03.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-pay-04.png",
+      "PackagePath": "staticwebassets/images/icons/icon-pay-04.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-pay-05.png",
+      "PackagePath": "staticwebassets/images/icons/icon-pay-05.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/icon-prev.png",
+      "PackagePath": "staticwebassets/images/icons/icon-prev.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/logo-01.png",
+      "PackagePath": "staticwebassets/images/icons/logo-01.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/logo-02.png",
+      "PackagePath": "staticwebassets/images/icons/logo-02.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/icons/pin.png",
+      "PackagePath": "staticwebassets/images/icons/pin.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/item-cart-01.jpg",
+      "PackagePath": "staticwebassets/images/item-cart-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/item-cart-02.jpg",
+      "PackagePath": "staticwebassets/images/item-cart-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/item-cart-03.jpg",
+      "PackagePath": "staticwebassets/images/item-cart-03.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/item-cart-04.jpg",
+      "PackagePath": "staticwebassets/images/item-cart-04.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/item-cart-05.jpg",
+      "PackagePath": "staticwebassets/images/item-cart-05.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-01.jpg",
+      "PackagePath": "staticwebassets/images/product-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-02.jpg",
+      "PackagePath": "staticwebassets/images/product-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-03.jpg",
+      "PackagePath": "staticwebassets/images/product-03.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-04.jpg",
+      "PackagePath": "staticwebassets/images/product-04.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-05.jpg",
+      "PackagePath": "staticwebassets/images/product-05.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-06.jpg",
+      "PackagePath": "staticwebassets/images/product-06.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-07.jpg",
+      "PackagePath": "staticwebassets/images/product-07.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-08.jpg",
+      "PackagePath": "staticwebassets/images/product-08.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-09.jpg",
+      "PackagePath": "staticwebassets/images/product-09.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-10.jpg",
+      "PackagePath": "staticwebassets/images/product-10.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-11.jpg",
+      "PackagePath": "staticwebassets/images/product-11.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-12.jpg",
+      "PackagePath": "staticwebassets/images/product-12.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-13.jpg",
+      "PackagePath": "staticwebassets/images/product-13.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-14.jpg",
+      "PackagePath": "staticwebassets/images/product-14.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-15.jpg",
+      "PackagePath": "staticwebassets/images/product-15.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-16.jpg",
+      "PackagePath": "staticwebassets/images/product-16.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-detail-01.jpg",
+      "PackagePath": "staticwebassets/images/product-detail-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-detail-02.jpg",
+      "PackagePath": "staticwebassets/images/product-detail-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-detail-03.jpg",
+      "PackagePath": "staticwebassets/images/product-detail-03.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-min-01.jpg",
+      "PackagePath": "staticwebassets/images/product-min-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-min-02.jpg",
+      "PackagePath": "staticwebassets/images/product-min-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/product-min-03.jpg",
+      "PackagePath": "staticwebassets/images/product-min-03.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/slide-01.jpg",
+      "PackagePath": "staticwebassets/images/slide-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/slide-02.jpg",
+      "PackagePath": "staticwebassets/images/slide-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/slide-03.jpg",
+      "PackagePath": "staticwebassets/images/slide-03.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/slide-04.jpg",
+      "PackagePath": "staticwebassets/images/slide-04.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/slide-05.jpg",
+      "PackagePath": "staticwebassets/images/slide-05.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/slide-06.jpg",
+      "PackagePath": "staticwebassets/images/slide-06.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/slide-07.jpg",
+      "PackagePath": "staticwebassets/images/slide-07.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/thumb-01.jpg",
+      "PackagePath": "staticwebassets/images/thumb-01.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/thumb-02.jpg",
+      "PackagePath": "staticwebassets/images/thumb-02.jpg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/images/thumb-03.jpg",
+      "PackagePath": "staticwebassets/images/thumb-03.jpg"
     },
     {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/img/.DS_Store",
@@ -81,8 +797,20 @@
       "PackagePath": "staticwebassets/js/init-alpine.js"
     },
     {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/js/map-custom.js",
+      "PackagePath": "staticwebassets/js/map-custom.js"
+    },
+    {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/js/slick-custom.js",
+      "PackagePath": "staticwebassets/js/slick-custom.js"
     },
     {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/lib/bootstrap/LICENSE",
@@ -311,6 +1039,346 @@
     {
       "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/.DS_Store",
+      "PackagePath": "staticwebassets/vendor/.DS_Store"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/MagnificPopup/jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets/vendor/MagnificPopup/jquery.magnific-popup.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/MagnificPopup/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/vendor/MagnificPopup/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/MagnificPopup/magnific-popup.css",
+      "PackagePath": "staticwebassets/vendor/MagnificPopup/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/animate/animate.css",
+      "PackagePath": "staticwebassets/vendor/animate/animate.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/animsition/css/animsition.css",
+      "PackagePath": "staticwebassets/vendor/animsition/css/animsition.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/animsition/css/animsition.min.css",
+      "PackagePath": "staticwebassets/vendor/animsition/css/animsition.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/animsition/js/animsition.js",
+      "PackagePath": "staticwebassets/vendor/animsition/js/animsition.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/animsition/js/animsition.min.js",
+      "PackagePath": "staticwebassets/vendor/animsition/js/animsition.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/js/popper.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/popper.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/js/popper.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/bootstrap/js/tooltip.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/tooltip.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/countdowntime/countdowntime.js",
+      "PackagePath": "staticwebassets/vendor/countdowntime/countdowntime.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/css-hamburgers/hamburgers.css",
+      "PackagePath": "staticwebassets/vendor/css-hamburgers/hamburgers.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/css-hamburgers/hamburgers.min.css",
+      "PackagePath": "staticwebassets/vendor/css-hamburgers/hamburgers.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/daterangepicker/daterangepicker.css",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/daterangepicker.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/daterangepicker/daterangepicker.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/daterangepicker.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/daterangepicker/moment.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/moment.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/daterangepicker/moment.min.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/moment.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/isotope/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/vendor/isotope/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jquery/jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/external/jquery/jquery.js",
+      "PackagePath": "staticwebassets/vendor/jqueryui/external/jquery/jquery.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/images/ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets/vendor/jqueryui/images/ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/images/ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets/vendor/jqueryui/images/ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/images/ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets/vendor/jqueryui/images/ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/images/ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets/vendor/jqueryui/images/ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/images/ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets/vendor/jqueryui/images/ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/images/ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets/vendor/jqueryui/images/ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/index.html",
+      "PackagePath": "staticwebassets/vendor/jqueryui/index.html"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/jquery-ui.css",
+      "PackagePath": "staticwebassets/vendor/jqueryui/jquery-ui.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/jquery-ui.js",
+      "PackagePath": "staticwebassets/vendor/jqueryui/jquery-ui.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/vendor/jqueryui/jquery-ui.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/vendor/jqueryui/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/jquery-ui.structure.css",
+      "PackagePath": "staticwebassets/vendor/jqueryui/jquery-ui.structure.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets/vendor/jqueryui/jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/jquery-ui.theme.css",
+      "PackagePath": "staticwebassets/vendor/jqueryui/jquery-ui.theme.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/jqueryui/jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets/vendor/jqueryui/jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/css/lightbox.css",
+      "PackagePath": "staticwebassets/vendor/lightbox2/css/lightbox.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/css/lightbox.min.css",
+      "PackagePath": "staticwebassets/vendor/lightbox2/css/lightbox.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/images/close.png",
+      "PackagePath": "staticwebassets/vendor/lightbox2/images/close.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/images/loading.gif",
+      "PackagePath": "staticwebassets/vendor/lightbox2/images/loading.gif"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/images/next.png",
+      "PackagePath": "staticwebassets/vendor/lightbox2/images/next.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/images/prev.png",
+      "PackagePath": "staticwebassets/vendor/lightbox2/images/prev.png"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/js/lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets/vendor/lightbox2/js/lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/js/lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets/vendor/lightbox2/js/lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/js/lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets/vendor/lightbox2/js/lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/js/lightbox.js",
+      "PackagePath": "staticwebassets/vendor/lightbox2/js/lightbox.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/js/lightbox.min.js",
+      "PackagePath": "staticwebassets/vendor/lightbox2/js/lightbox.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/lightbox2/js/lightbox.min.map",
+      "PackagePath": "staticwebassets/vendor/lightbox2/js/lightbox.min.map"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/parallax100/parallax100.js",
+      "PackagePath": "staticwebassets/vendor/parallax100/parallax100.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/perfect-scrollbar/perfect-scrollbar.css",
+      "PackagePath": "staticwebassets/vendor/perfect-scrollbar/perfect-scrollbar.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/perfect-scrollbar/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/vendor/perfect-scrollbar/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/select2/select2.css",
+      "PackagePath": "staticwebassets/vendor/select2/select2.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/select2/select2.js",
+      "PackagePath": "staticwebassets/vendor/select2/select2.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/select2/select2.min.css",
+      "PackagePath": "staticwebassets/vendor/select2/select2.min.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/select2/select2.min.js",
+      "PackagePath": "staticwebassets/vendor/select2/select2.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/ajax-loader.gif",
+      "PackagePath": "staticwebassets/vendor/slick/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/config.rb",
+      "PackagePath": "staticwebassets/vendor/slick/config.rb"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/fonts/slick.eot",
+      "PackagePath": "staticwebassets/vendor/slick/fonts/slick.eot"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/fonts/slick.svg",
+      "PackagePath": "staticwebassets/vendor/slick/fonts/slick.svg"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/fonts/slick.ttf",
+      "PackagePath": "staticwebassets/vendor/slick/fonts/slick.ttf"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/fonts/slick.woff",
+      "PackagePath": "staticwebassets/vendor/slick/fonts/slick.woff"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/slick-theme.css",
+      "PackagePath": "staticwebassets/vendor/slick/slick-theme.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/slick-theme.less",
+      "PackagePath": "staticwebassets/vendor/slick/slick-theme.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/slick-theme.scss",
+      "PackagePath": "staticwebassets/vendor/slick/slick-theme.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/slick.css",
+      "PackagePath": "staticwebassets/vendor/slick/slick.css"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/slick.js",
+      "PackagePath": "staticwebassets/vendor/slick/slick.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/slick.less",
+      "PackagePath": "staticwebassets/vendor/slick/slick.less"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/slick.min.js",
+      "PackagePath": "staticwebassets/vendor/slick/slick.min.js"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/slick/slick.scss",
+      "PackagePath": "staticwebassets/vendor/slick/slick.scss"
+    },
+    {
+      "Id": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreUserWebClient/wwwroot/vendor/sweetalert/sweetalert.min.js",
+      "PackagePath": "staticwebassets/vendor/sweetalert/sweetalert.min.js"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.CozaStoreUserWebClient.Microsoft.AspNetCore.StaticWebAssets.props",
