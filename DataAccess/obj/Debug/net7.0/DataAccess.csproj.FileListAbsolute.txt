@@ -20,3 +20,9 @@
 /Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
 /Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/obj/Debug/net7.0/DataAccess.pdb
 /Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/bin/Debug/net7.0/BusinessObjects.dll
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/bin/Debug/net7.0/DTO.dll
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/bin/Debug/net7.0/DTO.pdb
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/bin/Debug/net7.0/BusinessObjects.pdb
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete

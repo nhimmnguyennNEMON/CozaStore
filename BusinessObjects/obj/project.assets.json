@@ -1163,6 +1163,16 @@
             "rid": "win"
           }
         }
+      },
+      "DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTO.dll": {}
+        }
       }
     }
   },
@@ -3124,10 +3134,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "path": "../DTO/DTO.csproj",
+      "msbuildProject": "../DTO/DTO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DTO >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.13",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.13",
       "Microsoft.Extensions.Configuration >= 7.0.0",
@@ -3158,7 +3174,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DTO/DTO.csproj": {
+              "projectPath": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DTO/DTO.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

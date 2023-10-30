@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "ZlY18uc1kSef6svSvDmu68khyRZhgCLFJZPru1+YCi4=",
+  "Hash": "8aGWOftRuXAmpN8yPzm8qB+sXUZ6nzi/BXUa/f8cZB0=",
   "Source": "CozaStoreUserWebClient",
   "BasePath": "_content/CozaStoreUserWebClient",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/CozaStoreAPI/CozaStoreAPI.csproj",
+      "Version": 2,
+      "Source": "CozaStoreAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "CozaStoreUserWebClient/wwwroot",
