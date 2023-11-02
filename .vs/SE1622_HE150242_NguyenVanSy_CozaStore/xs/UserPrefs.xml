@@ -1,12 +1,4 @@
-﻿<Properties StartupConfiguration="{FE2C4BC8-F2A0-4148-B945-819DC5487E86}|http">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CozaStoreUserWebClient PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.CozaStoreAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CozaStoreAdminWebClient PreferredExecutionTarget="/Applications/Google Chrome.app" />
+﻿<Properties StartupConfiguration="Multiple Projects">
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
@@ -16,10 +8,21 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/ProductDAO.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CozaStoreAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Utils FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.CozaStoreUserWebClient PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CozaStoreAPI/Program.cs">
     <Files>
-      <File FileName="CozaStoreAPI/Controllers/ProductController.cs" Line="51" Column="14" />
-      <File FileName="DataAccess/ProductDAO.cs" Line="156" Column="102" />
+      <File FileName="CozaStoreAPI/Controllers/CartController.cs" />
+      <File FileName="DataAccess/CartDAO.cs" />
+      <File FileName="CozaStoreAPI/Controllers/OrderDetailController.cs" />
+      <File FileName="CozaStoreAPI/Controllers/UserController.cs" Line="1" Column="1" />
+      <File FileName="CozaStoreUserWebClient/Pages/Index.cshtml" Line="750" Column="91" />
+      <File FileName="CozaStoreUserWebClient/Pages/Index.cshtml.cs" Line="48" Column="1" />
+      <File FileName="CozaStoreAPI/Program.cs" Line="19" Column="24" />
+      <File FileName="CozaStoreUserWebClient/Program.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -27,18 +30,13 @@
           <Node name="SE1622_HE150242_NguyenVanSy_CozaStore" expanded="True">
             <Node name="CozaStoreAPI">
               <Node name="Controllers" expanded="True" />
-            </Node>
-            <Node name="CozaStoreUserWebClient">
-              <Node name="Pages" expanded="True">
-                <Node name="Index.cshtml" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="DataAccess">
-              <Node name="ProductDAO.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CozaStoreAdminWebClient PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

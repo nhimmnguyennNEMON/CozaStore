@@ -46,6 +46,19 @@
           }
         }
       },
+      "BCrypt.Net/0.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net35/BCrypt.Net.dll": {
+            "related": ".XML"
+          }
+        },
+        "runtime": {
+          "lib/net35/BCrypt.Net.dll": {
+            "related": ".XML"
+          }
+        }
+      },
       "Microsoft.AspNetCore.OpenApi/7.0.13": {
         "type": "package",
         "dependencies": {
@@ -1214,7 +1227,8 @@
           "DTO": "1.0.0",
           "DataAccess": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.13",
-          "Swashbuckle.AspNetCore": "6.5.0"
+          "Swashbuckle.AspNetCore": "6.5.0",
+          "Utils": "1.0.0"
         },
         "compile": {
           "bin/placeholder/CozaStoreAPI.dll": {}
@@ -1231,7 +1245,8 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "BusinessObjects": "1.0.0",
-          "DTO": "1.0.0"
+          "DTO": "1.0.0",
+          "Utils": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DataAccess.dll": {}
@@ -1248,6 +1263,19 @@
         },
         "runtime": {
           "bin/placeholder/DTO.dll": {}
+        }
+      },
+      "Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BCrypt.Net": "0.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utils.dll": {}
         }
       }
     }
@@ -1289,6 +1317,19 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "BCrypt.Net/0.1.0": {
+      "sha512": "sST2w361Dxt9GGMfpOTiK50wXGV64Ybb1hiX3xjEWnhVYZNF43NuySGwADJa7X1R+bA53NsFR+tuDxcYiJeIOA==",
+      "type": "package",
+      "path": "bcrypt.net/0.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bcrypt.net.0.1.0.nupkg.sha512",
+        "bcrypt.net.nuspec",
+        "lib/net35/BCrypt.Net.XML",
+        "lib/net35/BCrypt.Net.dll"
       ]
     },
     "Microsoft.AspNetCore.OpenApi/7.0.13": {
@@ -3485,6 +3526,11 @@
       "type": "project",
       "path": "../DTO/DTO.csproj",
       "msbuildProject": "../DTO/DTO.csproj"
+    },
+    "Utils/1.0.0": {
+      "type": "project",
+      "path": "../Utils/Utils.csproj",
+      "msbuildProject": "../Utils/Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3492,7 +3538,8 @@
       "BusinessObjects >= 1.0.0",
       "CozaStoreAPI >= 1.0.0",
       "DTO >= 1.0.0",
-      "DataAccess >= 1.0.0"
+      "DataAccess >= 1.0.0",
+      "Utils >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3531,6 +3578,9 @@
             },
             "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DTO/DTO.csproj": {
               "projectPath": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/DTO/DTO.csproj"
+            },
+            "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/Utils.csproj": {
+              "projectPath": "/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/Utils.csproj"
             }
           }
         }
@@ -3566,5 +3616,17 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BCrypt.Net 0.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BCrypt.Net",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,12 @@
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/bin/Debug/net7.0/Utils.deps.json
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/bin/Debug/net7.0/Utils.dll
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/bin/Debug/net7.0/Utils.pdb
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/Utils.csproj.AssemblyReference.cache
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/Utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/Utils.AssemblyInfoInputs.cache
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/Utils.AssemblyInfo.cs
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/Utils.csproj.CoreCompileInputs.cache
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/Utils.dll
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/refint/Utils.dll
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/Utils.pdb
+/Users/nguyenvansy/Desktop/Material/Term_FU/FALL2023/PRN231/code_project/SE1622_HE150242_NguyenVanSy_CozaStore/Utils/obj/Debug/net7.0/ref/Utils.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DTO
 {
-    internal class ProductDTO
+    public class ProductDTO
     {
         public int ProductId { get; set; }
 

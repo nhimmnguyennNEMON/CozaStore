@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,7 +10,8 @@
     <link rel="stylesheet" href="~/css/tailwind.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/tailwind.output.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/CozaStoreUserWebClient.styles.css" asp-append-version="true" />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet" />
 
     <!--===============================================================================================-->
     <link rel="icon" type="image/png" href="~/images/icons/favicon.png" />
@@ -43,14 +45,12 @@
     <!--===============================================================================================-->
 
 </head>
+
 <body class="animsition">
     <header>
         @*header is here*@
     </header>
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-
+    @RenderBody()
     <footer class="border-top footer text-muted">
         @*footer is here*@
     </footer>
@@ -151,7 +151,6 @@
         });</script>
     <!--===============================================================================================-->
     <script src="~/js/main.js"></script>
-
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

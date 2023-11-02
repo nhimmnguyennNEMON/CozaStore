@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using BusinessObjects;
 using DataAccess;
 using Microsoft.AspNetCore.Mvc;
+using DTO;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -17,12 +18,12 @@ namespace CozaStoreAPI.Controllers
 
         //GET: api/Products
         [HttpGet]
-        public ActionResult<IEnumerable<Product>> GetProducts() => ProductDAO.Instance.GetProducts();
+        public ActionResult<IEnumerable<ProductDTO>> GetProducts() => ProductDAO.Instance.GetProducts();
 
         [HttpGet("get-product-by-id/{id}")]
         public IActionResult FindProductById(int id)
         {
-            Product product = ProductDAO.Instance.FindProductById(id);
+            ProductDTO product = ProductDAO.Instance.FindProductById(id);
             if (product == null)
             {
                 return NotFound("Product does ndot exist");
@@ -33,7 +34,7 @@ namespace CozaStoreAPI.Controllers
         [HttpGet("get-product-by-categoryId/{id}")]
         public IActionResult GetListProductsByCateId(int id)
         {
-            List<Product> listProduct = ProductDAO.Instance.GetListProductsByCateId(id);
+            List<ProductDTO> listProduct = ProductDAO.Instance.GetListProductsByCateId(id);
             if (listProduct == null)
             {
                 return NotFound("Product does ndot exist");
@@ -44,7 +45,7 @@ namespace CozaStoreAPI.Controllers
         [HttpGet("get-product-by-name/{name}")]
         public IActionResult GetListProductsByProductName(string name)
         {
-            List<Product> listProduct = ProductDAO.Instance.GetListProductsByProductName(name);
+            List<ProductDTO> listProduct = ProductDAO.Instance.GetListProductsByProductName(name);
             if (listProduct == null)
             {
                 return NotFound("Product does ndot exist");
@@ -55,7 +56,7 @@ namespace CozaStoreAPI.Controllers
         [HttpGet("get-product-by-price/{startPrice}/{endPrice}")]
         public IActionResult GetProductByPriceRange(decimal startPrice, decimal endPrice)
         {
-            List<Product> listProduct = ProductDAO.Instance.GetProductByPriceRange(startPrice, endPrice);
+            List<ProductDTO> listProduct = ProductDAO.Instance.GetProductByPriceRange(startPrice, endPrice);
             if (listProduct == null)
             {
                 return NotFound("Product does ndot exist");
@@ -64,14 +65,14 @@ namespace CozaStoreAPI.Controllers
         }
 
         [HttpPost("create-product")]
-        public IActionResult PostProduct(Product product)
+        public IActionResult PostProduct(ProductDTO product)
         {
             ProductDAO.Instance.SaveProduct(product);
             return NoContent();
         }
 
         [HttpPut("update-product-by-id/{id}")]
-        public IActionResult UpdateProduct(int id, Product product)
+        public IActionResult UpdateProduct(int id, ProductDTO product)
         {
 
             var pTemp = ProductDAO.Instance.FindProductById(id);
@@ -93,10 +94,10 @@ namespace CozaStoreAPI.Controllers
             if (p == null)
             {
                 return NotFound();
+            } else {
+                ProductDAO.Instance.DeleteProductById(id);
+                return NoContent();
             }
-
-            ProductDAO.Instance.DeleteProduct(p);
-            return NoContent();
         }
     }
 }
