@@ -1,0 +1,42 @@
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+_ReSharper.*
+.idea/
+
+# Compiled output
+bin/
+obj/
+
+# NuGet Packages
+*.nupkg
+*.pdb
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio files
+.vs
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
